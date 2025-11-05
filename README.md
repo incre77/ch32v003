@@ -9,7 +9,7 @@ The normal cycle is 24 hours but you can change that seting some jumpers.
 
 -6 HORAS PA2       
 
--1 MIN   PA1 + PA2   
+-1 MIN   PA1 + PA2   (Pruebas)
 
 
 
